@@ -8,7 +8,7 @@ To get this application running you will need:
 
 - Python 3 installed
 - Pip installed
-- OpenCV pyhon module `pip install opencv-python`
+- OpenCV python module `pip install opencv-python`
 - Pillow `pip install Pillow`
 
 ## Running the Application
