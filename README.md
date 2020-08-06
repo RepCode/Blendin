@@ -8,11 +8,12 @@ To get this application running you will need:
 
 - Python 3 installed
 - Pip installed
-- OpenCV python module `pip install opencv-python`
-- Pillow `pip install Pillow`
+- (For Linux) Install Tkinter `sudo apt-get install python3-tk`
+- OpenCV python module `pip3 install opencv-python`
+- Pillow `pip3 install Pillow`
 
 ## Running the Application
-Once everything is installed, to start the application you have to run `python ./blendin.py` from the root of the project.
+Once everything is installed, to start the application you have to run `python3 ./blendin.py` from the root of the project.
 For the application to work you will need to have all the images you are going to use on the ./images folder before running the app. When clicking save the current image is saved on the ./results folder
 
 ## Considerations
